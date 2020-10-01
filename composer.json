@@ -1,5 +1,10 @@
 {
     "name": "swag/house",
+    "autoload": {
+	    "files": [
+		    "src/Runner.php"
+	    ]
+    },
     "description": "Test variant of composer",
     "type": "library",
     "license": "f",

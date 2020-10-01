@@ -12,6 +12,7 @@ class ComposerStaticInit6b9509ea9f7ba6fb18f5204af15a02e8
         '667aeda72477189d0494fecd327c3641' => __DIR__ . '/..' . '/symfony/var-dumper/Resources/functions/dump.php',
         'fe62ba7e10580d903cc46d808b5961a4' => __DIR__ . '/..' . '/tightenco/collect/src/Collect/Support/helpers.php',
         'caf31cc6ec7cf2241cb6f12c226c3846' => __DIR__ . '/..' . '/tightenco/collect/src/Collect/Support/alias.php',
+        'cc9e5f131044ec653fae777c4e2f8642' => __DIR__ . '/../..' . '/src/Runner.php',
     );
 
     public static $prefixLengthsPsr4 = array (
