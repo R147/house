@@ -1,0 +1,16 @@
+{
+    "name": "swag/house",
+    "description": "Test variant of composer",
+    "type": "library",
+    "license": "f",
+    "authors": [
+        {
+            "name": "R147",
+            "email": "mymail@example.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "tightenco/collect": "^8.0"
+    }
+}
